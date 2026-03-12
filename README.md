@@ -5,7 +5,7 @@
 - Giorgio Vanini
 - Arianna Cambi
 - Sofia Capriolo
-- Andrea Cipollo
+- Andrea Cipolla
 - Maiia Kopalina
 
 ## Project Overview
