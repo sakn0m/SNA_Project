@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This project applies Social Network Analysis to the movie *Catch Me If You Can*. The analysis is implemented in Python and documented in the notebook [`Catch_me_if_you_can_weeks.ipynb`](/Users/mayako/Desktop/SNA_Project/Catch_me_if_you_can_weeks.ipynb).
+This project applies Social Network Analysis to the movie *Catch Me If You Can*. The analysis is implemented in Python and documented in the notebook Catch_me_if_you_can_weeks.ipynb.
 
 The selected network is a movie character network:
 
